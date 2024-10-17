@@ -1,0 +1,88 @@
+const categories = [
+    {
+        id: 1,
+        name: 'Supply Pump Assy',
+        type: 'Supply Pump',
+        imgSrc: 'https://res.cloudinary.com/dcbryptkx/image/upload/c_scale,w_600/v1721810813/cp-indoteknik-v3/products/supply_Pump_assy_w4li42.png',
+        link: '/products/fuel-injection-systems/common-rail/supply-pump/supply-pump-assy',
+    },
+    {
+        id: 2,
+        name: 'Plunger',
+        type: 'Supply Pump',
+        imgSrc: 'https://res.cloudinary.com/dcbryptkx/image/upload/c_scale,w_600/v1721357271/cp-indoteknik-v3/productsSupplyPump/gvasy7g7a8s_kmfyir.png',
+        link: '/products/fuel-injection-systems/common-rail/supply-pump/plunger',
+    },
+    {
+        id: 3,
+        name: 'Rotor Set Feed Pump',
+        type: 'Supply Pump',
+        imgSrc: 'https://res.cloudinary.com/dcbryptkx/image/upload/v1721372685/cp-indoteknik-v3/productsSupplyPump/DSC_0122b-removebg-preview_x9f6dm.png',
+        link: '/products/fuel-injection-systems/common-rail/supply-pump/rotor-set-feed-pump',
+    },
+    {
+        id: 4,
+        name: 'Camshaft Supply Pump',
+        type: 'Supply Pump',
+        imgSrc: 'https://res.cloudinary.com/dcbryptkx/image/upload/v1721812151/cp-indoteknik-v3/productsSupplyPump/DSC_0110b-removebg-preview_u8xfv1.png',
+        link: '/products/fuel-injection-systems/common-rail/supply-pump/camshaft-supply-pump',
+    },
+    {
+        id: 5,
+        name: 'Sensor Temperature',
+        type: 'Supply Pump',
+        imgSrc: 'https://res.cloudinary.com/dcbryptkx/image/upload/c_scale,w_600/v1721372991/cp-indoteknik-v3/productsSupplyPump/1613533740511_copy_rsighv.png',
+        link: '/products/fuel-injection-systems/common-rail/supply-pump/sensor-temperature',
+    },
+    {
+        id: 6,
+        name: 'SCV',
+        type: 'Supply Pump',
+        imgSrc: 'https://res.cloudinary.com/dcbryptkx/image/upload/v1721201672/cp-indoteknik-v3/productsSupplyPump/DSC_0390_copy_fngcbe.png',
+        link: '/products/fuel-injection-systems/common-rail/supply-pump/scv',
+    },
+    {
+        id: 7,
+        name: 'Repair Kit',
+        type: 'Supply Pump',
+        imgSrc: 'https://res.cloudinary.com/dcbryptkx/image/upload/v1721372147/cp-indoteknik-v3/productsSupplyPump/DSC_0861_copy-removebg-preview_upvqsl.png',
+        link: '/products/fuel-injection-systems/common-rail/supply-pump/repair-kit',
+    },
+    {
+        id: 8,
+        name: 'Valve Pressure Regulator',
+        type: 'Supply Pump',
+        imgSrc: 'https://res.cloudinary.com/dcbryptkx/image/upload/v1721372549/cp-indoteknik-v3/productsSupplyPump/DSC_0023b-removebg-preview_oxaaul.png',
+        link: '/products/fuel-injection-systems/common-rail/supply-pump/valve-pressure-regulator',
+    },
+    {
+        id: 9,
+        name: 'Nepel Plunger Supply Pump',
+        type: 'Supply Pump',
+        imgSrc: 'https://res.cloudinary.com/dcbryptkx/image/upload/v1724838119/cp-indoteknik-v3/productsSupplyPump/nepel_plunger_DSC_0219-removebg-preview_p2kej8.png',
+        link: '/products/fuel-injection-systems/common-rail/supply-pump/nepel-plunger',
+    },
+    {
+        id: 10,
+        name: 'Filter Supply Pump',
+        type: 'Supply Pump',
+        imgSrc: 'https://res.cloudinary.com/dcbryptkx/image/upload/v1724838119/cp-indoteknik-v3/productsSupplyPump/Filter_Supply_Pump_Denso_DSC_0897b-removebg-preview_lxync4.png',
+        link: '/products/fuel-injection-systems/common-rail/supply-pump/filter-supply-pump',
+    },
+    {
+        id: 11,
+        name: 'Pipe Hose',
+        type: 'Supply Pump',
+        imgSrc: 'https://res.cloudinary.com/dcbryptkx/image/upload/v1724838119/cp-indoteknik-v3/productsSupplyPump/Selang_Pipa_Supply_Pump_Tryton_DSC_0888b-removebg-preview_blkpk6.png',
+        link: '/products/fuel-injection-systems/common-rail/supply-pump/pipe-hose',
+    },
+    {
+        id: 12,
+        name: 'Spring Plunger',
+        type: 'Supply Pump',
+        imgSrc: 'https://res.cloudinary.com/dcbryptkx/image/upload/v1727409308/cp-indoteknik-v3/productsSupplyPump/spring_plunger_sp_wfy8zg.png',
+        link: '/products/fuel-injection-systems/common-rail/supply-pump/spring-plunger',
+    },
+];
+
+export default categories;

@@ -1,0 +1,433 @@
+{
+    "header": {
+        "home": "Beranda",
+        "about": "Tentang",
+        "aboutUs": "Tentang Kami",
+        "gallery": "Galeri",
+        "services": "Layanan",
+        "products": "Produk",
+        "equipment": "Peralatan",
+        "contact": "Kontak"
+    },
+    "home": {
+        "hello": {
+            "hell1": "Selamat datang di",
+            "hell2": "INDO TEKNIK"
+        },
+        "products": "Kategori Produk",
+        "content": {
+            "cont1": "Dengan visi yang jelas, wawasan, dan profesionalisme, ",
+            "cont2": " didirikan sejak 1997 sebagai pusat servis dan purna jual Diesel Fuel Injection Part dan telah berkembang secara bertahap untuk mencapai standar saat ini.",
+            "cont3": " merupakan distributor untuk berbagai produk spare part mesin diesel ternama dan juga bengkel dengan teknisi profesional.",
+            "cont4": " yang berlokasi di ",
+            "cont5": ", telah melayani costumer baik di dalam maupun di luar kota sejak 10 November 1997."
+        },
+        "facilities": {
+            "title": "Fasilitas",
+            "fac1": "Kantor Resepsionis dengan Pelayanan Terbaik.",
+            "fac2": "Area Parkir Besar dan Halaman Inspeksi Kendaraan yang Luas.",
+            "fac3": "Ruang Pembongkaran dan Perakitan (Common Rail dan Konvensional).",
+            "fac4": "Berbagai Ruang Tertutup Steril untuk Pekerjaan Presisi.",
+            "fac5": "Test Bench Terpisah (Berbagai Brand dan Model Pump).",
+            "fac6": "Bengkel Mesin Independen dengan Mesin Bubut.",
+            "fac7": "Ruang Servis Fuel Injection Pump, Injector, Unit Injector dan lain-lain.",
+            "fac8": "Gudang (Spare part, alat, dan persediaan lainnya).",
+            "fac9": "Fasilitas Pelatihan dengan Proyektor dan Layar.",
+            "fac10": "Mesin Test Bench dan Fabrikasi."
+        },
+        "showMore": "Selengkapnya",
+        "showLess": "Ringkas",
+        "ourPartners": "Mitra Kami"
+    },
+    "about": {
+        "title": {
+            "title1": "Kami adalah",
+            "title2": "INDO TEKNIK"
+        },
+        "imageAlt": "Indo Teknik image",
+        "imageDescription": "Image Description",
+        "locationLink": "Jl. Riau Ujung No.898-904 Pekanbaru",
+        "paragraph1": "Jika Anda mencari spare part diesel berkualitas, Indo Teknik adalah pilihan terbaik. Tersedia berbagai merk part diesel. Jangan ragu untuk menghubungi Indo Teknik dan konsultasikan kebutuhan Anda. Hubungi Indo Teknik sekarang juga untuk informasi lebih lanjut.",
+        "paragraph2": {
+            "cont1": "Indo Teknik yang berlokasi di ",
+            "cont2": "berdiri sejak 1997 dengan nama Nara Diesel, yang pada awalnya hanyalah workshop injection pump. Lalu kemudian atas support semua customer dan Tuhan Yang Maha Esa, pada tahun 2005 mulai berkembang menjadi pusat servis dan purna jual Diesel Fuel Injection Part dan fabrikasi bahan logam dan untuk itu Nara Diesel diganti menjadi Indo Teknik."
+        },
+        "paragraph3": "Terima kasih untuk semua customer setia kami sehingga sekarang Indo Teknik merupakan distributor berbagai produk spare part mesin diesel ternama dan juga bengkel resmi dengan mesin-mesin terkini dan terlengkap dengan teknisi profesional yang selalu ditraining luar negeri.",
+        "services": {
+            "item1": "Spare part diesel yang lengkap dan harga yang sangat bersaing.",
+            "item2": "Spare part otomotif yang lengkap dan harga yang sangat bersaing.",
+            "item3": "Service bergaransi untuk semua jenis dan type Injector, Injection Pump, Supply Pump, Electric Unit Injector dan Pump dll. Kami sungguh-sungguh mengganti replacing part yang baru yang sesuai nomer partnya dan dibongkar pasang dengan special tools sehingga tidak merusak unitnya, diultrasonik dan dikalibrasi dan dites oleh mekanik ahli dan berpengalaman, memakai mesin-mesin test terkini dan terbaru supaya lulus semua data kalibrasi. Mesin test kami juga semua memakai minyak khusus kalibrasi supaya hasil kalibrasinya presisi.",
+            "item4": "Kami menyediakan pool luas untuk bongkar pasang mobil/alat berat/truk di belakang workshop kami.",
+            "item5": "Kami juga menyediakan vehicle diagnose dan scan mobil/truk/alat berat yang langsung ke workshop kami.",
+            "item6": "Teknisi kami juga bisa ke lokasi.",
+            "item7": "Tersedia tes alternator dan baterai.",
+            "item8": "Fabrikasi dan las bubut segala macam bahan logam."
+        }
+    },
+    "products": {
+        "title": "Produk dan layanan kami berkualitas dan terpercaya",
+        "descriptions": "Komitmen kami terhadap keunggulan memastikan bahwa kami menyediakan produk kualitas terbaik dan layanan yang andal. Kami bangga memberikan solusi yang memenuhi kebutuhan spesifik klien kami, didukung oleh tim kami yang berpengalaman dan fasilitas canggih.",
+        "categories": {
+            "battery": "Baterai",
+            "horn": "Klakson",
+            "sparkPlug": "Busi",
+            "bulbLighting": "Lampu Bohlam",
+            "starterAlternator": "Starter dan Alternator"
+        },
+        "descCategories": {
+            "desc1": "Industri otomotif terus berkembang, menuntut teknologi canggih untuk mendukung kinerja kendaraan. Salah satu teknologi penting adalah sistem common rail yang mencakup injector, supply pump, HEUI & EUI, dan unit pump.",
+            "desc2": "Dalam dunia otomotif, sitem fuel injection yang optimal sangat penting untuk keandalan dan efisiensi mesin. Indo Teknik siap memenuhi kebutuhan Anda dengan layanan berkualitas untuk menjaga performa kendaraan tetap prima.",
+            "desc3": "Indo Teknik menyediakan layanan fabrikasi dan las berkualitas untuk memastikan komponen yang kuat dan tahan lama dalam industri otomotif.",
+            "desc4": "Indo Teknik menawarkan produk baterai dan spare part aftermarket berkualitas untuk kebutuhan otomotif Anda. Kami memastikan kendaraan Anda berjalan lancar dan efisien."
+        },
+        "button": "Selengkapnya",
+        "articles": {
+            "commonRailSystem": {
+                "title": "Sistem Common Rail: Efisiensi dan Kinerja Terbaik untuk Kendaraan Anda",
+                "author": "Ditulis oleh: Admin Indo Teknik",
+                "intro": "Industri otomotif terus berkembang, menuntut teknologi canggih untuk mendukung kinerja kendaraan. Salah satu teknologi penting adalah sistem common rail yang mencakup injector, supply pump, HEUI & EUI, dan unit pump. Berikut ringkasan komponen utamanya:",
+                "injectorTitle": "Injector",
+                "injectorDesc": "Injector adalah komponen penting yang menyemprotkan bahan bakar ke ruang bakar mesin dengan tekanan tinggi. Indo Teknik menawarkan layanan pembersihan, pengujian, kalibrasi, dan perbaikan injector menggunakan teknologi mutakhir untuk memastikan efisiensi pembakaran dan emisi rendah.",
+                "supplyPumpTitle": "Supply Pump",
+                "supplyPumpDesc": "Supply pump memasok bahan bakar ke rail dengan tekanan tinggi yang dibutuhkan oleh injector. Kinerja optimal supply pump penting untuk menjaga tekanan bahan bakar stabil. Indo Teknik menyediakan layanan perbaikan dan kalibrasi, serta penggantian komponen yang rusak.",
+                "heuiTitle": "HEUI & EUI",
+                "heuiDesc": "HEUI dan EUI menggunakan teknologi elektronik untuk mengontrol injeksi bahan bakar, menawarkan presisi yang lebih tinggi dibandingkan sistem konvensional. Layanan Indo Teknik mencakup perbaikan, pengujian, dan kalibrasi untuk memastikan performa terbaik sistem injeksi ini.",
+                "unitPumpTitle": "Unit Pump",
+                "unitPumpDesc": "Unit pump mengirimkan bahan bakar ke injector dengan tekanan tinggi. Indo Teknik menyediakan layanan perbaikan, kalibrasi, dan penggantian komponen rusak untuk memastikan unit pump berfungsi efisien dan tahan lama.",
+                "moreInfo": "Untuk informasi lebih lanjut, hubungi Indo Teknik. Kami siap membantu Anda dengan layanan yang terpercaya dan profesional.",
+                "marketplaceTitle": "Marketplace Kami",
+                "marketplaceDesc": "Produk kami tersedia di berbagai platform e-commerce terpercaya:",
+                "findProducts": "Cari produk Sistem Common Rail yang sesuai dengan kebutuhan Anda di marketplace kami dan temukan penawaran terbaik!"
+            },
+            "fuelInjectionSystem": {
+                "titleFuel": "Sistem Fuel Injection: Keandalan dan Efisiensi Optimal",
+                "authorFuel": "Ditulis oleh: Admin Indo Teknik",
+                "introFuel": "Dalam dunia otomotif, sistem fuel injection yang optimal sangat penting untuk keandalan dan efisiensi mesin. Indo Teknik siap memenuhi kebutuhan Anda dengan layanan berkualitas untuk menjaga performa kendaraan tetap prima.",
+                "nozzleFipTitle": "Nozzle FIP (Fuel Injection Pump)",
+                "nozzleFipDesc": "Nozzle FIP berperan penting dalam menyemprotkan bahan bakar dengan akurat. Layanan kami meliputi pembersihan, pengujian, dan kalibrasi menggunakan peralatan diagnostik terbaru untuk memastikan efisiensi dan ramah lingkungan.",
+                "injectionPumpTitle": "Injection Pump",
+                "injectionPumpDesc": "Injection pump mengirimkan bahan bakar dengan tekanan tinggi ke nozzle. Indo Teknik menyediakan perbaikan, penggantian komponen rusak, dan kalibrasi untuk menjaga tekanan bahan bakar yang stabil dan efisien.",
+                "electricPumpTitle": "Electric Pump",
+                "electricPumpDesc": "Electric pump memompa bahan bakar dari tangki ke injection pump, memastikan aliran konsisten. Layanan kami mencakup pemeriksaan kelistrikan, penggantian komponen, dan pengujian untuk memastikan kinerja optimal.",
+                "nozzleTitle": "Nozzle",
+                "nozzleDesc": "Nozzle menyemprotkan bahan bakar ke ruang bakar dengan tepat, mempengaruhi efisiensi pembakaran dan emisi. Kami menawarkan pembersihan, pengujian, dan kalibrasi untuk performa terbaik.",
+                "contactUs": "Hubungi Kami",
+                "contactDesc": "Indo Teknik siap menjadi mitra Anda dalam perawatan dan perbaikan sistem fuel injection. Untuk informasi lebih lanjut mengenai layanan kami atau untuk membuat janji, jangan ragu untuk menghubungi kami.",
+                "marketplaceTitle": "Marketplace Kami",
+                "marketplaceDesc": "Produk kami tersedia di berbagai platform e-commerce terpercaya:",
+                "findProductsFuel": "Cari produk Sistem Fuel Injection yang sesuai dengan kebutuhan Anda di marketplace kami dan temukan penawaran terbaik!"
+            },
+            "fabricationWelding": {
+                "fabricationWeldingTitle": "Fabrikasi dan Pengelasan",
+                "writtenBy": "Ditulis oleh: Admin Indo Teknik",
+                "intro": "Indo Teknik menyediakan layanan fabrikasi dan las berkualitas untuk memastikan komponen yang kuat dan tahan lama dalam industri otomotif.",
+                "weldingServicesTitle": "Layanan Las",
+                "weldingServicesDesc": "Kami menawarkan pengelasan MIG, TIG, dan las busur untuk berbagai jenis logam. Setiap sambungan dijamin kuat, tahan lama, dan memenuhi standar kualitas tinggi.",
+                "latheServicesTitle": "Layanan Bubut",
+                "latheServicesDesc": "Menggunakan mesin bubut modern, kami mengerjakan logam dan plastik dengan presisi tinggi. Layanan mencakup pembuatan komponen baru dan perbaikan komponen rusak.",
+                "cylinderServicesTitle": "Servis Silinder",
+                "cylinderServicesDesc": "Layanan servis silinder mencakup pembersihan, pengukuran, honing, dan penggantian liner silinder untuk memastikan kinerja mesin optimal.",
+                "blockServicesTitle": "Servis Blok",
+                "blockServicesDesc": "Kami menangani servis blok mesin termasuk pembersihan, penggantian gasket, dan perbaikan keretakan untuk memastikan mesin berfungsi efisien.",
+                "headServicesTitle": "Servis Deksel",
+                "headServicesDesc": "Layanan servis deksel meliputi pembersihan, penggantian gasket, dan perbaikan keretakan untuk menjaga integritas mesin.",
+                "overhaulEngineTitle": "Overhaul Engine",
+                "overhaulEngineDesc": "Layanan overhaul mencakup pembongkaran, pembersihan, pemeriksaan, dan penggantian komponen rusak, memastikan mesin berfungsi seperti baru.",
+                "contactUsTitle": "Hubungi Kami",
+                "contactUsDesc": "Untuk informasi lebih lanjut mengenai layanan fabrikasi dan las kami atau untuk membuat janji, jangan ragu untuk menghubungi Indo Teknik. Kami siap membantu Anda dengan solusi perawatan dan perbaikan yang terpercaya dan kualitas terbaik. Indo Teknik, mitra andal Anda dalam dunia industri dan otomotif.",
+                "marketplaceTitle": "Marketplace Kami",
+                "marketplaceIntro": "Produk kami tersedia di berbagai platform e-commerce terpercaya:",
+                "marketplaceNote": "Cari produk Fabrikasi dan Pengelasan yang sesuai dengan kebutuhan Anda di marketplace kami dan temukan penawaran terbaik!"
+            },
+            "batteryAutomotive": {
+                "title": "Baterai dan Automotive Aftermarket",
+                "writtenBy": "Ditulis oleh: Admin Indo Teknik",
+                "intro": "Indo Teknik offers high-quality batteries and aftermarket spare parts for your automotive needs. We ensure your vehicle runs smoothly and efficiently.",
+                "batterySection": {
+                    "title": "Baterai",
+                    "intro": "Kami menyediakan berbagai jenis baterai, baik basah maupun kering, yang dirancang untuk kinerja maksimal dan daya tahan tinggi.",
+                    "fasterBattery": "Baterai Faster: Diimpor dari Vietnam dan Korea, dengan CCA tinggi untuk performa optimal.",
+                    "soliteBattery": "Baterai Solite: Dikenal akan kehandalan dan ketahanannya.",
+                    "description": "Dengan baterai dari Indo Teknik, kendaraan Anda selalu siap digunakan di berbagai kondisi jalan."
+                },
+                "aftermarketSection": {
+                    "title": "Automotive Aftermarket",
+                    "intro": "Kami juga menawarkan berbagai spare part aftermarket dari merek terkenal seperti Bosch untuk meningkatkan performa dan keandalan kendaraan Anda.",
+                    "sparkPlugs": "Busi: Untuk pembakaran bahan bakar yang optimal.",
+                    "wipers": "Wiper: Untuk pandangan berkendara jelas saat cuaca buruk.",
+                    "filters": "Filter: Menjaga kebersihan dan efisiensi mesin.",
+                    "sensorsSolenoids": "Sensor and Solenoid: Komponen elektronik yang sangat penting.",
+                    "alternatorECU": "Alternator and ECU: Untuk sistem kelistrikan dan kontrol mesin.",
+                    "relaysBulbs": "Relay and Bohlam: Untuk fungsi kelistrikan dan penerangan.",
+                    "description": "Indo Teknik berkomitmen menyediakan solusi andal dengan produk terbaik untuk memastikan kepuasan pelanggan."
+                },
+                "contactUs": {
+                    "title": "Hubungi Kami",
+                    "info": "Untuk informasi lebih lanjut mengenai produk dan layanan kami, kunjungi halaman kontak di website kami. Tim kami siap membantu Anda menemukan solusi terbaik untuk kebutuhan otomotif Anda."
+                },
+                "marketplaceSection": {
+                    "title": "Marketplace Kami",
+                    "description": "Produk kami tersedia di berbagai platform e-commerce terpercaya:",
+                    "note": "Cari produk Baterai dan Automotive Aftermarket yang sesuai dengan kebutuhan Anda di marketplace kami dan temukan penawaran terbaik!"
+                }
+            }
+        },
+
+        "fabricationWelding": {
+            "title": "",
+            "welding": "",
+            "lathe": "",
+            "cylinderService": "",
+            "blockService": "",
+            "dekselService": "",
+            "overhaulEngine": ""
+        }
+    },
+
+    "services": {
+        "title": "Kami siap melayani kebutuhan anda",
+        "description": "Our Specialist services cover the following types & Design",
+        "listService": {
+            "title": "Kami spesialis layanan pada jenis dan kategori berikut:",
+            "list1": "Injector Common Rail dan Supply Pump",
+            "list2": "In-Line Fuel Injection Pump",
+            "list3": "Rotary Fuel Injection Pump",
+            "list4": "Ve Pump Injection Pump",
+            "list5": "Turbocharger",
+            "list6": "Fabrikasi dan Pengelasan",
+            "list7": "EUI dan HEUI",
+            "list8": "Engine Overhaul"
+        },
+        "descService": {
+            "desc1": "Kami siap menangani perawatan dan perbaikan injector common rail serta supply pump Anda. Dengan layanan kami, performa sistem injeksi bahan bakar diesel akan selalu optimal, memastikan efisiensi dan kekuatan mesin tetap terjaga. Jangan biarkan injector yang bermasalah menghambat aktivitas Anda, serahkan pada kami!",
+            "desc2": "Pompa injeksi bahan bakar tipe in-line Anda butuh perawatan atau perbaikan? Kami hadir untuk memastikan mesin diesel Anda tetap dalam performa terbaik. Layanan kami akan menjaga mesin Anda tetap kuat, efisien, dan siap untuk segala tantangan. Jangan ragu, kunjungi kami dan nikmati pelayanan terbaik dari tim ahli kami!",
+            "desc3": "Percayakan perbaikan dan perawatan pompa injeksi bahan bakar tipe rotary Anda pada kami. Tim ahli kami siap membantu menjaga performa mesin diesel Anda tetap prima, baik untuk kendaraan komersial maupun peralatan industri.",
+            "desc4": "Pastikan pompa injeksi bahan bakar VE Anda selalu dalam kondisi terbaik dengan layanan kami. Kami memberikan perawatan dan perbaikan yang mendetail untuk menjaga efisiensi dan kinerja kendaraan diesel ringan hingga menengah Anda. Kualitas adalah prioritas kami!",
+            "desc5": "Tingkatkan tenaga dan efisiensi mesin diesel Anda dengan layanan turbocharger dari Indo Teknik. Kami menawarkan perbaikan, pemeliharaan, dan peningkatan kinerja turbocharger yang akan membuat mesin Anda bekerja lebih kuat dan hemat bahan bakar. Dapatkan performa maksimal bersama kami!",
+            "desc6": "Butuh jasa fabrikasi dan pengelasan yang handal? Indo Teknik siap membantu! Kami menyediakan solusi untuk berbagai kebutuhan mekanik dan struktural, termasuk pembuatan komponen custom dan perbaikan kerangka. Percayakan pekerjaan fabrikasi Anda pada ahli kami!",
+            "desc7": "Teknologi injeksi bahan bakar canggih seperti EUI dan HEUI membutuhkan penanganan khusus. Layanan kami memastikan unit injeksi elektronik dan hidraulik elektronik Anda bekerja dengan presisi tinggi, meningkatkan efisiensi dan performa mesin diesel Anda. Pastikan injeksi bahan bakar Anda optimal dengan kami!",
+            "desc8": "Kembalikan performa mesin diesel Anda ke kondisi terbaik dengan layanan overhaul engine dari Indo Teknik. Kami menyediakan perbaikan total, mulai dari pembongkaran, pembersihan, pemeriksaan, hingga penggantian komponen. Dapatkan mesin yang seperti baru lagi dengan layanan overhaul kami!"
+        },
+        "whyChooseUs": "Kenapa Memilih Indo Teknik?",
+        "partAvailable": "Ketersediaan spare part diesel dan automotive aftermarket yang berkualitas, lengkap dan original dengan berbagai pilihan merk dari Eropa, Jepang dan China. ",
+        "affordablePrices": "Harga termurah dan transparan, siap dikirim ke seluruh bengkel, toko dan end user yang ada di Indonesia dan luar negeri.",
+        "serviceWork": "Pekerjaan servis dan kalibrasi injection baik yang manual, common rail, electrical, unit pump dll. :",
+        "serviceWork1": "Menggunakan mesin dengan teknologi terbaru dan terupdate  dari Hartridge, Bosch dan Itech agar mendapatkan hasil kalibrasi yang akurat dan presisi.",
+        "serviceWork2": "Mesin selalu rutin dikalibrasi agar hasil kalibrasi selalu tepat dan presisi.",
+        "serviceWork3": "Memakai minyak khusus kalibrasi agar ketepatan dan keakuratan hasil kalibrasi selalu terjaga.",
+        "serviceWork4": "Memakai data kalibrasi sesuai serial number agar hasil kalibrasinya akurat.",
+        "serviceWork5": "Memakai data replacing part sesuai serial number yang seharusnya, tidak memakai part persamaan supaya kondisi siap pakai unit akan selalu terjaga, performanya tetap prima sehingga usia pemakaiannya lebih lama.",
+        "serviceWork6": "Mekanik handal berpengalaman yang rutin ditraining secara berkala agar selalu mendapat update dan informasi terkini mengenai kalibrasi mesin diesel.",
+        "serviceWork7": "Memakai tool bongkar pasang sesuai serial number sehingga tidak merusak body dan komponen unit. ",
+        "serviceWork8": "Semua komponen dibongkar dan di ultrasonik dan dibersihkan dengan teliti dan di check dengan mikroskop untuk mendapatkan ketepatan kondisi komponen  yang akan diganti dan diperbaiki supaya  hasil kalibrasi bisa awet dan presisi.",
+        "serviceWork9": "Memakai alat scanner yang detail dan terkini.",
+        "serviceWork10": "Memberikan penawaran harga terlebih dahulu sebelum melakukan kalibrasi.",
+        "serviceWork11": "Semua pekerjaan service bergaransi untuk menjamin kepuasan pelanggan.",
+        "serviceWork12": "Menerima layanan pekerjaan service dari seluruh Indonesia serta teknisi yang bisa ke lokasi.",
+        "serviceWorkAndOthers": "Pekerjaan service turbo, alternator, dll,  las bubut dan fabrikasi dikerjakan oleh mekanik yang ahli dan berpengalaman memakai tool dan mesin-mesin  lengkap.",
+        "customerService": "Pelayanan customer service yang ramah, cepat dan sabar serta ruang tunggu customer yang nyaman.",
+        "poolWorkshop": "Workshop dan pool yang luas untuk bongkar pasang unit truk, mobil dan alat berat.",
+        "testimonials": "Testimoni Pelanggan",
+        "contactUs": "Hubungi Kami",
+        "contactUsDesc": "Jika Anda memiliki pertanyaan atau membutuhkan konsultasi, hubungi kami melalui WhatsApp atau media sosial. Tim kami siap membantu Anda.",
+        "fuelInjectionPump": {
+            "title": "Layanan Fuel Injection Pump",
+            "description": "Kami menyediakan layanan perbaikan dan perawatan untuk berbagai jenis Fuel Injection Pump. Layanan kami mencakup:",
+            "services": {
+                "inlinePump": "Perbaikan untuk pompa injeksi bahan bakar tipe in-line, yang banyak digunakan di berbagai aplikasi industri, kendaraan dan alat berat.",
+                "rotaryPump": "Perbaikan pompa injeksi bahan bakar tipe rotary, yang dikenal dengan efisiensi dan keandalannya dalam berbagai mesin diesel."
+            },
+            "expertise": "Kami menggunakan mesin terbaru, tools dan spare part yang lengkap, serta teknisi handal dan berpengalaman yang dilatih secara berkala dengan mesin terkini.",
+            "inlinePumpAlt": "In-Line Fuel Injection Pump",
+            "inlinePumpTitle": "In-Line Fuel Injection Pump",
+            "inlinePumpDescription": "Layanan perbaikan Fuel Injection Pump tipe In-Line memastikan kinerja mesin diesel tetap optimal sesuai spesifikasi. Tim kami yang berpengalaman akan menangani segala jenis kerusakan dan memastikan pompa injeksi Anda kembali berfungsi dengan baik.",
+            "rotaryPumpAlt": "Rotary Fuel Injection Pump",
+            "rotaryPumpTitle": "Rotary Fuel Injection Pump",
+            "rotaryPumpDescription": "Kami menawarkan layanan perbaikan untuk pompa injeksi bahan bakar tipe rotary, yang terkenal dengan tingkat efisiensi dan keandalannya. Teknisi kami yang terlatih dan berpengalaman menggunakan peralatan canggih untuk memastikan setiap pompa diperbaiki sesuai standar pabrikan, sehingga kinerja mesin diesel Anda tetap optimal dan handal."
+        },
+        "nozzle": {
+            "title": "Layanan Nozzle",
+            "description": "Nozzle adalah komponen penting dalam sistem injeksi bahan bakar yang berfungsi untuk menyemprotkan bahan bakar ke dalam ruang bakar mesin. Kami menyediakan layanan perbaikan, pembersihan, dan penggantian nozzle untuk memastikan performa mesin Anda optimal. Layanan kami meliputi:",
+            "services": {
+                "cleaning": "Pembersihan dan perawatan nozzle untuk meningkatkan performa mesin.",
+                "repair": "Perbaikan nozzle yang mengalami kerusakan atau penyumbatan.",
+                "replacement": "Penggantian nozzle dengan komponen berkualitas tinggi.",
+                "testing": "Pengujian dan kalibrasi nozzle untuk memastikan efisiensi bahan bakar."
+            },
+            "imageAlt": "Nozzle Fuel Injection Pump",
+            "imageTitle": "Nozzle Fuel Injection Pump",
+            "imageDescription": "Kami memiliki pengalaman dalam menangani berbagai jenis nozzle untuk sistem injeksi bahan bakar. Tim ahli kami menggunakan peralatan canggih untuk melakukan pembersihan, perbaikan, dan penggantian nozzle dengan standar kualitas tertinggi. Pastikan mesin Anda beroperasi dengan efisiensi maksimal dan performa terbaik dengan layanan kami."
+        },
+        "supplyPump": {
+            "title": "Layanan Supply Pump",
+            "description": "Supply pump adalah komponen penting dalam sistem bahan bakar yang bertugas untuk memompa bahan bakar dari tangki ke mesin. Kami menawarkan layanan perbaikan, pemeliharaan, dan penggantian supply pump dengan fokus pada kualitas dan kepuasan pelanggan. Layanan kami meliputi:",
+            "services": {
+                "identification": "Identifikasi masalah pada supply pump dan penyediaan solusi yang efektif.",
+                "maintenance": "Servis berkala untuk menjaga performa dan keandalan supply pump.",
+                "replacement": "Penggantian part-part yang rusak atau aus dengan komponen kualitas terbaik.",
+                "calibration": "Kalibrasi untuk memastikan efisiensi dan performa supply pump yang optimal."
+            },
+            "imageAlt": "Supply Pump Service",
+            "imageTitle": "Layanan perbaikan Supply Pump",
+            "imageDescription": "Kami adalah penyedia layanan supply pump yang terpercaya dengan pengalaman bertahun-tahun di industri ini. Kami berkomitmen untuk memberikan pelayanan terbaik dengan dukungan teknis yang kompeten dan penggunaan peralatan terbaru. Dengan memilih kami, Anda memastikan bahwa supply pump Anda ditangani oleh para ahli yang peduli terhadap kualitas dan hasil akhir."
+        },
+        "injector": {
+            "title": "Layanan Injector",
+            "description": "Injector adalah bagian penting dari sistem bahan bakar yang menyemprotkan bahan bakar ke ruang bakar mesin dengan presisi tinggi. Kami menawarkan berbagai layanan untuk memastikan injector Anda berfungsi secara optimal, termasuk:",
+            "services": {
+                "diagnosis": "Kami mendiagnosis dan memperbaiki masalah pada injector Anda untuk memastikan kinerja mesin yang optimal.",
+                "maintenance": "Kami melakukan pemeliharaan berkala untuk menjaga kondisi injector Anda agar tetap dalam keadaan prima.",
+                "testing": "Pengujian komprehensif untuk memastikan bahwa injector berfungsi dengan efisiensi dan akurasi yang dibutuhkan.",
+                "cleaning": "Layanan pembersihan untuk menghilangkan kotoran dan kerak yang mengganggu performa injector."
+            },
+            "imageAlt": "Injector Service",
+            "imageTitle": "Layanan perbaikan Injector",
+            "imageDescription": "Kami memiliki pengalaman bertahun-tahun dalam perbaikan dan pemeliharaan injector dengan komitmen untuk memberikan hasil terbaik. Kami menggunakan teknologi terbaru dan teknik yang sudah terbukti untuk memastikan layanan yang efektif dan terpercaya."
+        },
+        "eui": {
+            "title": "Layanan EUI (Electronic Unit Injector)",
+            "description": "EUI atau Electronic Unit Injector adalah sistem injeksi bahan bakar canggih yang mengatur jumlah bahan bakar yang disemprotkan ke dalam ruang bakar dengan presisi tinggi. Kami menawarkan layanan profesional untuk perbaikan dan pemeliharaan EUI, meliputi berbagai jenis dan merek injector elektronik. Berikut adalah layanan yang kami tawarkan untuk EUI:",
+            "services": {
+                "diagnosis": "Kami mendiagnosa masalah pada EUI Anda dan melakukan perbaikan untuk memastikan performa mesin yang optimal.",
+                "maintenance": "Layanan pemeliharaan berkala untuk menjaga EUI Anda dalam kondisi terbaik dan mencegah kerusakan di masa depan.",
+                "testing": "Pengujian untuk memastikan bahwa EUI Anda bekerja dengan efisiensi dan akurasi yang diperlukan.",
+                "cleaning": "Layanan pembersihan dan kalibrasi untuk memastikan EUI Anda berfungsi dengan sempurna."
+            },
+            "expertise": "Tim kami memiliki keahlian dan peralatan modern untuk memberikan layanan yang cepat dan efektif untuk EUI Anda.",
+            "imageAlt": "EUI Service",
+            "imageTitle": "Layanan Perbaikan EUI",
+            "imageDescription": "Kami berkomitmen untuk memberikan layanan terbaik untuk EUI Anda dengan teknologi terbaru dan teknik perbaikan yang terbukti efektif. Dengan pengalaman yang luas dalam industri ini, kami dapat menangani berbagai masalah pada EUI dan memastikan performa mesin Anda tetap optimal."
+        },
+        "unitPump": {
+            "title": "Layanan Unit Pump",
+            "description": "Unit Pump adalah komponen penting dalam sistem bahan bakar yang memastikan pengiriman bahan bakar yang tepat ke mesin. Kami menawarkan layanan perbaikan dan pemeliharaan Unit Pump untuk berbagai jenis kendaraan dan peralatan industri. Layanan kami meliputi:",
+            "services": {
+                "identify": "Mengidentifikasi dan mendiagnosa masalah yang ada pada Unit Pump.",
+                "repair": "Melakukan perbaikan atau penggantian komponen Unit Pump yang rusak atau aus.",
+                "efficiency": "Menjamin Unit Pump berfungsi dengan efisiensi dan akurasi yang diperlukan."
+            },
+            "team": "Tim kami berpengalaman dan menggunakan teknologi terbaru untuk memastikan layanan yang cepat dan efektif.",
+            "imageAlt": "Unit Pump Service Image",
+            "ourServiceTitle": "Layanan Unit Pump Kami",
+            "ourServiceDescription": "Kami berkomitmen untuk memberikan layanan terbaik untuk Unit Pump Anda dengan teknologi terbaru dan teknik perbaikan yang terbukti efektif. Dengan pengalaman yang luas dalam industri ini, kami dapat menangani berbagai masalah pada Unit Pump dan memastikan performa mesin Anda tetap optimal."
+        },
+        "tics": {
+            "title": "Layanan TICS",
+            "description": "TICS (Timing & Injection Control Systems) adalah komponen penting dalam sistem injeksi bahan bakar diesel yang berfungsi mengatur waktu dan jumlah bahan bakar yang diinjeksikan ke dalam mesin. Kami menyediakan layanan perbaikan, kalibrasi, dan penggantian spare part TICS untuk memastikan mesin Anda beroperasi dengan efisiensi maksimal. Layanan kami meliputi:",
+            "services": {
+                "repair": "Perbaikan TICS yang rusak atau tidak berfungsi dengan baik.",
+                "calibration": "Kalibrasi untuk memastikan akurasi injeksi bahan bakar.",
+                "replacement": "Penggantian komponen dengan spare part berkualitas.",
+                "cleaning": "Pembersihan untuk mencegah penyumbatan dan menjaga performa optimal."
+            },
+            "section2": {
+                "title": "Layanan TICS",
+                "description": "Kami memiliki pengalaman luas dalam menangani berbagai jenis TICS untuk mesin diesel. Tim ahli kami menggunakan peralatan modern untuk memastikan setiap TICS yang kami tangani memenuhi standar kualitas terbaik. Dengan layanan kami, Anda dapat yakin bahwa mesin Anda akan berjalan dengan efisiensi dan keandalan yang optimal."
+            }
+        },
+        "fabrication": {
+            "title": "Layanan Fabrikasi",
+            "description": "Kami menawarkan layanan fabrikasi profesional untuk berbagai keperluan industri dan komersial. Tim ahli kami berpengalaman dalam berbagai teknik fabrikasi. Layanan kami meliputi:",
+            "services": {
+                "build": "Membangun dan memperbaiki struktur material dengan kualitas terbaik.",
+                "pipeWelding": "Menyediakan pengelasan pipa untuk berbagai aplikasi industri.",
+                "repair": "Layanan perbaikan dan pemeliharaan untuk memperpanjang umur peralatan Anda."
+            },
+            "equipment": "Kami menggunakan peralatan modern dan teknik terbaru untuk memastikan hasil yang maksimal dan kepuasan pelanggan.",
+            "imageAlt": "Fabrication Service",
+            "imageTitle": "Layanan Fabrikasi Profesional",
+            "imageDescription": "Kami berkomitmen untuk memberikan layanan fabrikasi terbaik dengan hasil yang tahan lama dan berkualitas tinggi. Apapun kebutuhan fabrikasi Anda, tim kami siap membantu dengan layanan yang cepat dan efisien."
+        },
+        "welding": {
+            "title": "Layanan Pengelasan",
+            "description": "Kami menawarkan layanan pengelasan profesional untuk berbagai keperluan industri dan komersial. Tim ahli kami berpengalaman dalam berbagai teknik pengelasan, termasuk MIG, TIG, dan pengelasan busur manual. Layanan kami meliputi:",
+            "services": {
+                "build": "Membangun dan memperbaiki struktur logam dengan kualitas terbaik.",
+                "pipeWelding": "Menyediakan pengelasan pipa untuk berbagai aplikasi industri.",
+                "specialMaterial": "Spesialisasi dalam pengelasan material khusus.",
+                "repair": "Layanan perbaikan dan pemeliharaan untuk memperpanjang umur peralatan Anda."
+            },
+            "equipment": "Kami menggunakan peralatan modern dan teknik terbaru untuk memastikan hasil yang maksimal dan kepuasan pelanggan.",
+            "imageAlt": "Welding Service",
+            "imageTitle": "Layanan Pengelasan Profesional",
+            "imageDescription": "Kami berkomitmen untuk memberikan layanan pengelasan terbaik dengan hasil yang tahan lama dan berkualitas tinggi. Apapun kebutuhan pengelasan Anda, tim kami siap membantu dengan layanan yang cepat dan efisien."
+        },
+        "lathe": {
+            "title": "Layanan Bubut",
+            "description": "Kami menawarkan layanan bubut kualitas terbaik untuk berbagai kebutuhan industri dan komersial. Tim ahli kami berpengalaman dalam menangani berbagai jenis pekerjaan bubut, mulai dari komponen kecil hingga proyek besar. Layanan kami meliputi:",
+            "services": {
+                "precision": "Pembuatan komponen presisi untuk mesin dan peralatan industri.",
+                "repair": "Perbaikan dan pemeliharaan komponen mesin untuk memperpanjang umur peralatan Anda.",
+                "prototype": "Pembuatan prototipe komponen baru sesuai dengan spesifikasi Anda.",
+                "massProduction": "Produksi massal komponen dengan konsistensi dan kualitas tinggi."
+            },
+            "equipment": "Kami menggunakan mesin bubut canggih dan metode terbaru untuk memastikan hasil yang optimal dan kepuasan pelanggan.",
+            "imageAlt": "Layanan Bubut Profesional",
+            "imageTitle": "Layanan Bubut Profesional",
+            "imageDescription": "Kami berkomitmen untuk memberikan layanan bubut terbaik dengan hasil yang tahan lama dan berkualitas tinggi. Apapun kebutuhan bubut Anda, tim kami siap membantu dengan layanan yang cepat dan efisien."
+        },
+        "press": {
+            "title": "Layanan Pengepresan",
+            "description": "Kami menyediakan layanan pres kualitas terbaik yang dirancang untuk memenuhi kebutuhan industri dan komersial Anda. Tim ahli kami menggunakan peralatan canggih untuk memastikan hasil yang presisi dan berkualitas. Layanan kami meliputi:",
+            "services": {
+                "highPrecision": "Pembuatan komponen logam dengan presisi tinggi untuk berbagai aplikasi industri.",
+                "customPress": "Layanan pres khusus sesuai dengan spesifikasi dan kebutuhan proyek Anda."
+            },
+            "experience": "Dengan pengalaman bertahun-tahun, kami siap membantu Anda mencapai hasil yang optimal dan efisien.",
+            "imageAlt": "Press Service",
+            "imageTitle": "Layanan Pres Profesional",
+            "imageDescription": "Kami berdedikasi untuk memberikan layanan pres yang memenuhi standar tertinggi dalam hal kualitas dan presisi. Hubungi kami untuk informasi lebih lanjut dan untuk mendiskusikan proyek Anda."
+        }
+    },
+    "contact": {
+        "title": "Hubungi Kami",
+        "ourAddress": {
+            "header": "Alamat Kami",
+            "content": "Jl. Riau Ujung, Kel. Tampan, Kec. Payung Sekaki",
+            "content2": "Pekanbaru Riau, 28292"
+        },
+        "hours": {
+            "header": "Jam Operasional",
+            "available": "Senin - Sabtu: 08.00 - 17.30 WIB",
+            "closed": "Minggu dan Hari Libur Nasional: Tutup"
+        },
+        "contactUs": {
+            "header": "Kontak Kami",
+            "email": "Email: customerservice@indo-teknik.com",
+            "phone": "WhatsApp: +62 811-7531-881"
+        }
+    },
+    "galleries": {
+        "title": "Mesin Test Bench dan Fabrikasi",
+        "testBenches": "Test Bench",
+        "fabrication": "Fabrikasi"
+    },
+    "footer": {
+        "stayConnected": "Hubungi Indo Teknik",
+        "findUs": "Temukan kami di salah satu platform ini, kami akan merespons sesegera mungkin.",
+        "ourServices": "Produk Kami",
+        "serviceCategories": {
+            "title": "Kategori Layanan",
+            "list1": "Fuel Injection Pump",
+            "list2": "Nozzle",
+            "list3": "Supply Pump",
+            "list4": "Injector",
+            "list5": "EUI",
+            "list6": "Unit Pump",
+            "list7": "TICS",
+            "list8": "Fabrikasi",
+            "list9": "Las",
+            "list10": "Bubut",
+            "list11": "Pres"
+        },
+        "ourLocation": "Lokasi Kami",
+        "copyright": " Hak cipta dilindungi undang-undang.",
+        "whatsappMessage": "Halo, saya sangat tertarik dengan layanan Indo Teknik.",
+        "services": {
+            "commonRail": "Sistem Common Rail",
+            "fuelInjection": "Sistem Fuel Injection",
+            "batteryAA": "Baterai and Automotive Aftermarket"
+        },
+        "disclaimer": "Penampilan dan penyebutan merek ITech, Kobelco, Garrett, Redat, Delphi, Denso, Ford, JCB, Scania, KIA, Sumitomo, Komatsu, Hitachi, Case, Bosch, LiuGong, Caterpillar, Liwei, Perkins, Renault, Daihatsu, Continental, Sany, Yanmar, Mazda, Volvo, FAW, Nissan, Cummins, Crone, Chevrolet, dan Mitsubishi pada situs web ini hanya untuk tujuan informasi dan referensi. indo-teknik.com tidak mengklaim kepemilikan atau afiliasi dengan merek-merek tersebut."
+    }
+}

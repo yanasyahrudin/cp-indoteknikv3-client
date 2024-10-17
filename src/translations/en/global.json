@@ -1,0 +1,423 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "aboutUs": "About Us",
+        "gallery": "Gallery",
+        "services": "Services",
+        "products": "Products",
+        "equipment": "Equipment",
+        "contact": "Contact"
+    },
+    "home": {
+        "hello": {
+            "hell1": "Welcome to",
+            "hell2": "INDO TEKNIK"
+        },
+        "products": "Product Categories",
+        "content": {
+            "cont1": "With a clear vision, insight, and professionalism, ",
+            "cont2": " was established in 1997 as a service and after-sales center for Diesel Fuel Injection Parts and has gradually developed to reach its current standards.",
+            "cont3": " is a distributor for various renowned diesel engine spare parts and also operates a workshop with professional technicians.",
+            "cont4": " which is located in ",
+            "cont5": ", has served customers both inside and outside the city since November 10, 1997."
+        },
+        "facilities": {
+            "title": "Facilities",
+            "fac1": "Well-Furnished Reception Office.",
+            "fac2": "Large Parking Area and Spacious Vehicle Inspection Yard.",
+            "fac3": "Dismantling and Assembling Room (Common Rail and Conventional).",
+            "fac4": "Various Sterile Enclosed Spaces for Precision Work.",
+            "fac5": "Separate Independent Test Benches for Various Brands and Models of Pumps.",
+            "fac6": "Independent Machine Shop With Lathe Machine.",
+            "fac7": "Fuel Injection Pump, Injector, Unit Injector and other service Rooms.",
+            "fac8": "Warehouse (Spare parts, tools, and other supplies).",
+            "fac9": "Training Facility with Projector and Screen.",
+            "fac10": "Test Bench and Fabrication Machines."
+        },
+        "showMore": "Show More",
+        "showLess": "Show Less",
+        "ourPartners": ""
+    },
+    "about": {
+        "title": {
+            "title1": "We Are",
+            "title2": "Indo Teknik"
+        },
+        "imageAlt": "Indo Teknik image",
+        "imageDescription": "Image Description",
+        "locationLink": "Jl. Riau Ujung No.898-904 Pekanbaru",
+        "paragraph1": "If you are looking for quality diesel spare parts, Indo Teknik is the best choice. Various brands of diesel parts are available. Do not hesitate to contact Indo Teknik and consult your needs. Contact Indo Teknik now for more information.",
+        "paragraph2": {
+            "cont1": "Indo Teknik is located in ",
+            "cont2": "established since 1997 under the name Nara Diesel, which was initially just an injection pump workshop. Then later with the support of all customers and God Almighty, in 2005 it began to develop into a service and after-sales center for Diesel Fuel Injection Parts and metal fabrication and for that Nara Diesel was changed to Indo Teknik."
+        },
+        "paragraph3": "Thank you to all our loyal customers so that now Indo Teknik is a distributor of various well-known diesel engine spare part products and also an official workshop with the latest and most complete machines with professional technicians who are always trained abroad.",
+        "services": {
+            "item1": "Complete diesel spare parts and very competitive prices.",
+            "item2": "Complete outomotive spare parts and very competitive prices.",
+            "item3": "Warranty service for all types and types of Injectors, Injection Pumps, Supply Pumps, Electric Unit Injectors and Pumps etc. We really replace the new replacing parts that match the part number and are dismantled and reassembled with special tools so as not to damage the unit, ultrasonicated and calibrated and tested by expert and experienced mechanics, using the latest and newest test machines to pass all calibration data. Our test machines also all use special calibration oil so that the calibration results are precise.",
+            "item4": "We provide a large pool for dismantling and assembling cars/heavy equipment/trucks behind our workshop.",
+            "item5": "We also provide vehicle diagnosis and scan of cars/trucks/heavy equipment directly to our workshop.",
+            "item6": "Our technicians can also come to the location.",
+            "item7": "Alternator and battery tests available.",
+            "item8": "Lathe fabrication and welding of all types of metal materials."
+        }
+    },
+    "products": {
+        "title": "Our products are high-quality and reliable",
+        "descriptions": "Our commitment to excellence ensures that we provide high-quality products and reliable services. We pride ourselves on delivering solutions that meet the specific needs of our clients, supported by our experienced team and state-of-the-art facilities.",
+        "categories": {
+            "battery": "Battery",
+            "horn": "Horn",
+            "sparkPlug": "Spark Plug",
+            "bulbLighting": "Bulb and Lighting",
+            "starterAlternator": "Starter and Alternator"
+        },
+        "descCategories": {
+            "desc1": "Our common rail systems are designed to optimize the performance and efficiency of diesel engines. They ensure precise fuel injection and are engineered to meet stringent emission standards.",
+            "desc2": "We offer advanced fuel injection systems that enhance engine performance and reduce fuel consumption. These systems are crucial for achieving better mileage and lower emissions.",
+            "desc3": "Our fabrication and welding services are top-notch, providing robust and durable components for various industrial applications. We adhere to the highest quality standards to ensure the longevity and reliability of our products.",
+            "desc4": "Our range of batteries and automotive aftermarket products ensures your vehicles run smoothly and efficiently. We provide reliable solutions to meet all your automotive needs, from high-performance batteries to essential aftermarket parts."
+        },
+        "button": "Read more",
+        "articles": {
+            "commonRailSystem": {
+                "title": "Common Rail System: Efficiency and Best Performance for Your Vehicle",
+                "author": "Written by: Indo Teknik Admin",
+                "intro": "The automotive industry is constantly evolving, demanding advanced technologies to support vehicle performance. One essential technology is the common rail system, which includes injectors, supply pumps, HEUI & EUI, and unit pumps. Here is a summary of its main components:",
+                "injectorTitle": "Injector",
+                "injectorDesc": "Injectors are crucial components that spray fuel into the engine combustion chamber at high pressure. Indo Teknik offers cleaning, testing, calibration, and repair services for injectors using state-of-the-art technology to ensure efficient combustion and low emissions.",
+                "supplyPumpTitle": "Supply Pump",
+                "supplyPumpDesc": "The supply pump delivers fuel to the rail at the high pressure required by the injectors. Optimal supply pump performance is vital for maintaining stable fuel pressure. Indo Teknik provides repair, calibration, and component replacement services for faulty supply pumps.",
+                "heuiTitle": "HEUI & EUI",
+                "heuiDesc": "HEUI and EUI use electronic technology to control fuel injection, offering higher precision compared to conventional systems. Indo Teknik services include repair, testing, and calibration to ensure these injection systems perform at their best.",
+                "unitPumpTitle": "Unit Pump",
+                "unitPumpDesc": "Unit pumps deliver fuel to the injectors at high pressure. Indo Teknik provides repair, calibration, and component replacement services to ensure unit pumps function efficiently and last longer.",
+                "moreInfo": "For more information, contact Indo Teknik. We are ready to assist you with reliable and professional services.",
+                "marketplaceTitle": "Our Marketplace",
+                "marketplaceDesc": "Our products are available on various trusted e-commerce platforms:",
+                "findProducts": "Find Common Rail System products that meet your needs on our marketplace and discover the best deals!"
+            },
+            "fuelInjectionSystem": {
+                "titleFuel": "Fuel Injection System: Reliability and Optimal Efficiency",
+                "authorFuel": "Written by: Indo Teknik Admin",
+                "introFuel": "In the automotive world, an optimal fuel injection system is crucial for engine reliability and efficiency. Indo Teknik is ready to meet your needs with quality services to keep your vehicle performing at its best.",
+                "nozzleFipTitle": "Nozzle FIP (Fuel Injection Pump)",
+                "nozzleFipDesc": "The Nozzle FIP plays an important role in accurately spraying fuel. Our services include cleaning, testing, and calibration using the latest diagnostic equipment to ensure efficiency and environmental friendliness.",
+                "injectionPumpTitle": "Injection Pump",
+                "injectionPumpDesc": "The injection pump delivers fuel at high pressure to the nozzle. Indo Teknik provides repairs, replacement of damaged components, and calibration to maintain stable and efficient fuel pressure.",
+                "electricPumpTitle": "Electric Pump",
+                "electricPumpDesc": "The electric pump pumps fuel from the tank to the injection pump, ensuring consistent flow. Our services include electrical inspections, component replacement, and testing to ensure optimal performance.",
+                "nozzleTitle": "Nozzle",
+                "nozzleDesc": "The nozzle sprays fuel into the combustion chamber precisely, affecting combustion efficiency and emissions. We offer cleaning, testing, and calibration for optimal performance.",
+                "contactUs": "Contact Us",
+                "contactDesc": "Indo Teknik is ready to be your partner in the maintenance and repair of fuel injection systems. For more information about our services or to make an appointment, do not hesitate to contact us.",
+                "marketplaceTitle": "Our Marketplace",
+                "marketplaceDesc": "Our products are available on various trusted e-commerce platforms:",
+                "findProductsFuel": "Find Fuel Injection System products that meet your needs on our marketplace and discover the best deals!"
+            },
+            "fabricationWelding": {
+                "fabricationWeldingTitle": "Fabrication and Welding",
+                "writtenBy": "Written by: Admin Indo Teknik",
+                "intro": "Indo Teknik provides quality fabrication and welding services to ensure strong and durable components in the automotive industry.",
+                "weldingServicesTitle": "Welding Services",
+                "weldingServicesDesc": "We offer MIG, TIG, and arc welding for various types of metals. Each joint is guaranteed to be strong, durable, and meets high-quality standards.",
+                "latheServicesTitle": "Lathe Services",
+                "latheServicesDesc": "Using modern lathes, we work on metals and plastics with high precision. Services include making new components and repairing damaged ones.",
+                "cylinderServicesTitle": "Cylinder Services",
+                "cylinderServicesDesc": "Cylinder services include cleaning, measuring, honing, and replacing cylinder liners to ensure optimal engine performance.",
+                "blockServicesTitle": "Block Services",
+                "blockServicesDesc": "We handle engine block services including cleaning, gasket replacement, and crack repairs to ensure efficient engine operation.",
+                "headServicesTitle": "Head Services",
+                "headServicesDesc": "Head services include cleaning, gasket replacement, and crack repairs to maintain engine integrity.",
+                "overhaulEngineTitle": "Overhaul Engine",
+                "overhaulEngineDesc": "Overhaul services include disassembly, cleaning, inspection, and replacement of damaged components, ensuring the engine functions like new.",
+                "contactUsTitle": "Contact Us",
+                "contactUsDesc": "For more information about our fabrication and welding services or to make an appointment, feel free to contact Indo Teknik. We are ready to assist you with trusted maintenance and repair solutions and the best quality. Indo Teknik, your reliable partner in the industrial and automotive world.",
+                "marketplaceTitle": "Our Marketplace",
+                "marketplaceIntro": "Our products are available on various trusted e-commerce platforms:",
+                "marketplaceNote": "Find the right Fabrication and Welding products for your needs in our marketplace and discover the best offers!"
+            },
+
+            "batteryAutomotive": {
+                "title": "Battery and Automotive Aftermarket",
+                "writtenBy": "Written by: Admin Indo Teknik",
+                "intro": "Indo Teknik menawarkan produk baterai dan sparepart aftermarket berkualitas untuk kebutuhan otomotif Anda. Kami memastikan kendaraan Anda berjalan lancar dan efisien.",
+                "batterySection": {
+                    "title": "Batteries",
+                    "intro": "We provide a wide range of batteries, both wet and dry, designed for maximum performance and high durability.",
+                    "fasterBattery": "Faster Battery: Imported from Vietnam and Korea, with high CCA for optimal performance.",
+                    "soliteBattery": "Solite Battery: Known for reliability and durability.",
+                    "description": "With batteries from Indo Teknik, your vehicle is always ready to use in various road conditions."
+                },
+                "aftermarketSection": {
+                    "title": "Automotive Aftermarket",
+                    "intro": "We also offer a wide range of aftermarket spare parts from well-known brands such as Bosch to enhance your vehicle's performance and reliability.",
+                    "sparkPlugs": "Spark Plugs: For optimal combustion.",
+                    "wipers": "Wipers: For clear visibility in bad weather.",
+                    "filters": "Filters: Maintaining engine cleanliness and efficiency.",
+                    "sensorsSolenoids": "Sensors and Solenoids: Critical electronic components.",
+                    "alternatorECU": "Alternator and ECU: For electrical system and engine control.",
+                    "relaysBulbs": "Relays and Bulbs: For electrical functions and lighting.",
+                    "description": "Indo Teknik is committed to providing reliable solutions with the best products to ensure customer satisfaction."
+                },
+                "contactUs": {
+                    "title": "Contact Us",
+                    "info": "For more information about our products and services, visit the contact page on our website. Our team is ready to help you find the best solution for your automotive needs."
+                },
+                "marketplaceSection": {
+                    "title": "Our Marketplaces",
+                    "description": "Our products are available on various trusted e-commerce platforms:",
+                    "note": "Find the right Battery dan Automotive Aftermarket products for your needs in our marketplace and discover the best offers!"
+                }
+            }
+        }
+    },
+    "services": {
+        "title": "We are ready to serve your needs",
+        "description": "Our Specialist services cover the following types & Design",
+        "listService": {
+            "title": "Our Specialist Services include the following types and categories:",
+            "list1": "Injector Common Rail and Supply Pump",
+            "list2": "In-Line Fuel Injection Pump",
+            "list3": "Rotary Fuel Injection Pump",
+            "list4": "Ve Pump Injection Pump",
+            "list5": "Turbocharger",
+            "list6": "Fabrication and Welding",
+            "list7": "EUI and HEUI",
+            "list8": "Engine Overhaul"
+        },
+        "descService": {
+            "desc1": "We are ready to handle the maintenance and repair of your common rail injectors and supply pumps. With our service, the performance of your diesel fuel injection system will always be optimal, ensuring the efficiency and power of the engine are maintained. Don't let problematic injectors hinder your activities, leave it to us!",
+            "desc2": "Does your in-line fuel injection pump need maintenance or repair? We are here to ensure your diesel engine stays in top performance. Our service will keep your engine strong, efficient, and ready for any challenge. Don't hesitate, visit us and enjoy the best service from our expert team!",
+            "desc3": "Entrust the repair and maintenance of your rotary fuel injection pump to us. Our expert team is ready to help keep your diesel engine performing at its best, whether for commercial vehicles or industrial equipment.",
+            "desc4": "Ensure your VE fuel injection pump is always in the best condition with our service. We provide detailed maintenance and repair to maintain the efficiency and performance of your light to medium diesel vehicles. Quality is our priority!",
+            "desc5": "Increase the power and efficiency of your diesel engine with turbocharger services from Indo Teknik. We offer repair, maintenance, and performance enhancements for turbochargers that will make your engine work stronger and more fuel-efficient. Get maximum performance with us!",
+            "desc6": "Need reliable fabrication and welding services? Indo Teknik is ready to help! We provide solutions for various mechanical and structural needs, including custom component manufacturing and frame repairs. Entrust your fabrication work to our experts!",
+            "desc7": "Advanced fuel injection technology such as EUI and HEUI requires special handling. Our service ensures your electronic unit injectors and electronic hydraulic unit injectors work with high precision, improving the efficiency and performance of your diesel engine. Ensure your fuel injection is optimal with us!",
+            "desc8": "Restore your diesel engine's performance to its best condition with engine overhaul services from Indo Teknik. We provide comprehensive repairs, from disassembly, cleaning, inspection, to component replacement. Get an engine that feels like new again with our overhaul service!"
+        },
+        "whyChooseUs": "Why Choose Indo Teknik?",
+        "partAvailable": "Availability of quality, complete and original diesel and automotive aftermarket spare parts with a wide selection of brands from Europe, Japan and China.",
+        "affordablePrices": "Affordable and transparent prices, ready to be sent to all workshops, shops and end users in Indonesia and abroad.",
+        "serviceWork": "Service and calibration work for injections, both manual, common rail, electrical, pump units, etc. :",
+        "serviceWork1": "Using machines with the latest and most updated technology from Hartridge, Bosch and Itech to get accurate and precise calibration results.",
+        "serviceWork2": "The machine is always routinely calibrated so that the calibration results are always precise and precise.",
+        "serviceWork3": "Use special calibration oil so that the precision and accuracy of calibration results is always maintained.",
+        "serviceWork4": "Use calibration data according to the serial number so that the calibration results are accurate.",
+        "serviceWork5": "Use replacement part data according to the correct serial number, do not use equivalent parts so that the unit's ready-to-use condition will always be maintained, its performance remains excellent so its service life is longer.",
+        "serviceWork6": "Reliable, experienced mechanics who are trained regularly to always receive the latest updates and information regarding diesel engine calibration.",
+        "serviceWork7": "Use disassembly tools according to the serial number so as not to damage the body and components of the unit.",
+        "serviceWork8": "All components are disassembled and ultrasonically cleaned and carefully checked with a microscope to determine the exact condition of the components to be replaced and repaired so that the calibration results can be durable and precise.",
+        "serviceWork9": "Use detailed and up-to-date scanner tools.",
+        "serviceWork10": "Provide a price quote first before carrying out calibration.",
+        "serviceWork11": "All service work is guaranteed to ensure customer satisfaction.",
+        "serviceWork12": "Receive service work from all over Indonesia as well as technicians who can go to the location.",
+        "serviceWorkAndOthers": "Turbo, alternator, etc. service work, lathe welding and fabrication are carried out by skilled and experienced mechanics using complete tools and machines.",
+        "customerService": "Friendly, fast and patient customer service and a comfortable customer waiting room.",
+        "poolWorkshop": "Spacious workshop and pool for dismantling trucks, cars and heavy equipment.",
+        "testimonials": "Customer Testimonials",
+        "contactUs": "Contact Us",
+        "contactUsDesc": "If you have any questions or need consultation, contact us via WhatsApp or social media. Our team is ready to assist you.",
+        "fuelInjectionPump": {
+            "title": "Fuel Injection Pump Service",
+            "description": "We provide repair and maintenance services for various types of Fuel Injection Pumps. Our services include:",
+            "services": {
+                "inlinePump": "Repair for in-line fuel injection pumps, widely used in various industrial applications, vehicles, and heavy equipment.",
+                "rotaryPump": "Repair of rotary fuel injection pumps, known for their efficiency and reliability in various diesel engines."
+            },
+            "expertise": "We use the latest machines, equipment, complete spare parts, as well as reliable, experienced technicians who are regularly trained with complete and up-to-date machines.",
+            "inlinePumpAlt": "In-Line Fuel Injection Pump",
+            "inlinePumpTitle": "In-Line Fuel Injection Pump",
+            "inlinePumpDescription": "The In-Line Fuel Injection Pump repair service ensures that diesel engine performance remains optimal according to specifications. Our experienced team will handle all kinds of damages and ensure your injection pump works properly again.",
+            "rotaryPumpAlt": "Rotary Fuel Injection Pump",
+            "rotaryPumpTitle": "Rotary Fuel Injection Pump",
+            "rotaryPumpDescription": "We offer repair services for rotary-type fuel injection pumps, renowned for their efficiency and reliability. Our trained and experienced technicians use advanced equipment to ensure every pump is repaired to manufacturer standards, keeping your diesel engine performing optimally and reliably."
+        },
+        "nozzle": {
+            "title": "Nozzle Service",
+            "description": "The nozzle is a critical component in the fuel injection system that sprays fuel into the engine's combustion chamber. We provide repair, cleaning, and replacement services to ensure your engine performs optimally. Our services include:",
+            "services": {
+                "cleaning": "Cleaning and maintenance of the nozzle to improve engine performance.",
+                "repair": "Repair of damaged or clogged nozzles.",
+                "replacement": "Replacement of nozzles with high-quality components.",
+                "testing": "Testing and calibration of nozzles to ensure fuel efficiency."
+            },
+            "imageAlt": "Nozzle Fuel Injection Pump",
+            "imageTitle": "Nozzle Fuel Injection Pump",
+            "imageDescription": "We have experience in handling various types of nozzles for fuel injection systems. Our expert team uses advanced equipment to clean, repair, and replace nozzles to the highest quality standards. Ensure your engine operates with maximum efficiency and optimal performance with our services."
+        },
+        "supplyPump": {
+            "title": "Supply Pump Service",
+            "description": "The supply pump is a critical component in the fuel system that pumps fuel from the tank to the engine. We offer repair, maintenance, and replacement services for supply pumps with a focus on quality and customer satisfaction. Our services include:",
+            "services": {
+                "identification": "Identifying issues with the supply pump and providing effective solutions.",
+                "maintenance": "Regular servicing to maintain the performance and reliability of the supply pump.",
+                "replacement": "Replacing damaged or worn-out parts with high-quality components.",
+                "calibration": "Calibration to ensure optimal efficiency and performance of the supply pump."
+            },
+            "imageAlt": "Supply Pump Service",
+            "imageTitle": "Supply Pump Repair Service",
+            "imageDescription": "We are a trusted provider of supply pump services with years of experience in the industry. We are committed to providing the best service with competent technical support and the use of the latest equipment. By choosing us, you ensure that your supply pump is handled by experts who care about quality and the final outcome."
+        },
+        "injector": {
+            "title": "Injector Service",
+            "description": "The injector is a critical part of the fuel system that sprays fuel into the engine's combustion chamber with high precision. We offer a variety of services to ensure your injector functions optimally, including:",
+            "services": {
+                "diagnosis": "We diagnose and repair issues with your injector to ensure optimal engine performance.",
+                "maintenance": "We perform regular maintenance to keep your injector in prime condition.",
+                "testing": "Comprehensive testing to ensure the injector operates with the required efficiency and accuracy.",
+                "cleaning": "Cleaning services to remove dirt and deposits that affect injector performance."
+            },
+            "imageAlt": "Injector Service",
+            "imageTitle": "Injector Repair Service",
+            "imageDescription": "We have years of experience in injector repair and maintenance, committed to delivering the best results. We use the latest technology and proven techniques to ensure effective and reliable service."
+        },
+        "eui": {
+            "title": "EUI (Electronic Unit Injector) Service",
+            "description": "EUI or Electronic Unit Injector is an advanced fuel injection system that controls the amount of fuel sprayed into the combustion chamber with high precision. We offer professional services for EUI repair and maintenance, covering various types and brands of electronic injectors. Our services include:",
+            "services": {
+                "diagnosis": "We diagnose issues with your EUI and perform repairs to ensure optimal engine performance.",
+                "maintenance": "Regular maintenance services to keep your EUI in top condition and prevent future breakdowns.",
+                "testing": "Testing to ensure that your EUI operates with the required efficiency and accuracy.",
+                "cleaning": "Cleaning and calibration services to ensure your EUI functions perfectly."
+            },
+            "expertise": "Our team has the expertise and modern equipment to provide quick and effective services for your EUI.",
+            "imageAlt": "EUI Service",
+            "imageTitle": "EUI Repair Service",
+            "imageDescription": "We are committed to providing the best service for your EUI with the latest technology and proven repair techniques. With extensive experience in this industry, we can handle various EUI issues and ensure your engine performance remains optimal."
+        },
+        "unitPump": {
+            "title": "Unit Pump Service",
+            "description": "The Pump Unit is an important component in the fuel system that ensures proper fuel delivery to the engine. We offer Pump Unit repair and maintenance services for various types of vehicles and industrial equipment. Our services include:",
+            "services": {
+                "identify": "Identify and diagnose problems with the Pump Unit.",
+                "repair": "Repair or replace damaged or worn Pump Unit components.",
+                "efficiency": "Ensure the Pump Unit functions with the required efficiency and accuracy."
+            },
+            "team": "Our expert team is ready to help you with any issue, large or small.",
+            "imageAlt": "Pump Service Image",
+            "ourServiceTitle": "Our Pump Unit Services",
+            "ourServiceDescription": "We are committed to providing the best service for your Pump Unit with the latest technology and repair techniques that are proven to be effective. With extensive experience in this industry, we can handle various problems with Pump Units and ensure your engine performance remains optimal."
+        },
+        "tics": {
+            "title": "TICS Service",
+            "description": "TICS (Timing & Injection Control Systems) is an important component in the diesel fuel injection system which functions to regulate the time and amount of fuel injected into the engine. We provide TICS repair, calibration and spare part replacement services to ensure your machine operates at maximum efficiency. Our services include:",
+            "services": {
+                "repair": "Repair TICS that are damaged or not functioning properly.",
+                "calibration": "Calibration to ensure fuel injection accuracy.",
+                "replacement": "Replacement of components with quality spare parts.",
+                "cleaning": "Cleaning to prevent blockages and maintain optimal performance."
+            },
+            "section2": {
+                "title": "TICS Services",
+                "description": "We have extensive experience in handling various types of TICS for diesel engines. Our expert team uses modern equipment to ensure every TICS we handle meets the best quality standards. With our services, you can be sure that your machines will run with optimal efficiency and reliability."
+            }
+        },
+        "fabrication": {
+            "title": "Fabrication Service",
+            "description": "We offer professional fabrication services for various industrial and commercial needs. Our expert team is experienced in various fabrication techniques. Our services include:",
+            "services": {
+                "build": "Building and repairing material structures with the highest quality.",
+                "pipeWelding": "Providing pipe welding for various industrial applications.",
+                "repair": "Repair and maintenance services to extend the life of your equipment."
+            },
+            "equipment": "We use modern equipment and the latest techniques to ensure maximum results and customer satisfaction.",
+            "imageAlt": "Fabrication Service",
+            "imageTitle": "Professional Fabrication Services",
+            "imageDescription": "We are committed to providing the best fabrication services with durable and high-quality results. Whatever your fabrication needs, our team is ready to help with fast and efficient service."
+        },
+        "welding": {
+            "title": "Welding Service",
+            "description": "We offer professional welding services for various industrial and commercial needs. Our expert team is experienced in multiple welding techniques, including MIG, TIG, and manual arc welding. Our services include:",
+            "services": {
+                "build": "Building and repairing metal structures with the highest quality.",
+                "pipeWelding": "Providing pipe welding for various industrial applications.",
+                "specialMaterial": "Specializing in welding special materials.",
+                "repair": "Repair and maintenance services to extend the life of your equipment."
+            },
+            "equipment": "We use modern equipment and the latest techniques to ensure maximum results and customer satisfaction.",
+            "imageAlt": "Welding Service",
+            "imageTitle": "Professional Welding Services",
+            "imageDescription": "We are committed to providing the best welding services with durable and high-quality results. Whatever your welding needs, our team is ready to help with fast and efficient service."
+        },
+        "lathe": {
+            "title": "Lathe Service",
+            "description": "We offer top-quality lathe services for various industrial and commercial needs. Our expert team is experienced in handling various types of lathe work, from small components to large projects. Our services include:",
+            "services": {
+                "precision": "Manufacturing precision components for machinery and industrial equipment.",
+                "repair": "Repair and maintenance of machine components to extend the life of your equipment.",
+                "prototype": "Creating new component prototypes according to your specifications.",
+                "massProduction": "Mass production of components with high consistency and quality."
+            },
+            "equipment": "We use advanced lathe machines and the latest methods to ensure optimal results and customer satisfaction.",
+            "imageAlt": "Lathe Service",
+            "imageTitle": "Professional Lathe Services",
+            "imageDescription": "We are committed to providing the best lathe services with durable and high-quality results. Whatever your lathe needs, our team is ready to assist with fast and efficient service."
+        },
+        "press": {
+            "title": "Pressing Service",
+            "description": "We provide top-quality pressing services designed to meet your industrial and commercial needs. Our expert team uses advanced equipment to ensure precise and high-quality results. Our services include:",
+            "services": {
+                "highPrecision": "Manufacturing high-precision metal components for various industrial applications.",
+                "customPress": "Custom pressing services according to your project's specifications and requirements."
+            },
+            "experience": "With years of experience, we are ready to help you achieve optimal and efficient results.",
+            "imageAlt": "Press Service",
+            "imageTitle": "Professional Press Services",
+            "imageDescription": "We are dedicated to providing pressing services that meet the highest standards of quality and precision. Contact us for more information and to discuss your project."
+        }
+    },
+    "contact": {
+        "title": "Contact Us",
+        "ourAddress": {
+            "header": "Our Address",
+            "content": "Jl. Riau Ujung, Kel. Tampan, Kec. Payung Sekaki",
+            "content2": "Pekanbaru Riau, 28292"
+        },
+        "hours": {
+            "header": "Operational Hours",
+            "available": "Monday - Saturday: 08:00 AM - 05:30 PM WIB (Western Indonesian Time)",
+            "closed": "Sunday and National Holidays: Closed"
+        },
+        "contactUs": {
+            "header": "Contact Us",
+            "email": "Email: customerservice@indo-teknik.com",
+            "phone": "WhatsApp: +62 811-7531-881"
+        }
+    },
+    "galleries": {
+        "title": "Test Bench and Fabrication Machines",
+        "testBenches": "Test Benches",
+        "fabrication": "Fabrication"
+    },
+    "footer": {
+        "stayConnected": "Get in touch with Indo Teknik",
+        "findUs": "Find us on any of these platforms, we respond as soon as possible.",
+        "ourServices": "Service categories",
+        "ourLocation": "Our Location",
+        "serviceCategories": {
+            "title": "Service Categories",
+            "list1": "Fuel Injection Pump",
+            "list2": "Nozzle",
+            "list3": "Supply Pump",
+            "list4": "Injector",
+            "list5": "EUI",
+            "list6": "Unit Pump",
+            "list7": "TICS",
+            "list8": "Fabrication",
+            "list9": "Welding",
+            "list10": "Lathe",
+            "list11": "Press"
+        },
+        "copyright": " All rights reserved.",
+        "whatsappMessage": "Hello, I would like to inquire about Indo Teknik services.",
+        "services": {
+            "fuelInjection": "Fuel Injection System",
+            "commonRail": "Common Rail System",
+            "batteryAA": "Battery and Automotive Aftermarket"
+        },
+        "disclaimer": "The appearance and mention of the brands ITech, Kobelco, Garrett, Redat, Delphi, Denso, Ford, JCB, Scania, KIA, Sumitomo, Komatsu, Hitachi, Case, Bosch, LiuGong, Caterpillar, Liwei, Perkins, Renault, Daihatsu, Continental, Sany, Yanmar, Mazda, Volvo, FAW, Nissan, Cummins, Crone, Chevrolet, and Mitsubishi on this website is for informational and reference purposes only. indo-teknik.com has no ownership rights or affiliation with those brands."
+    }
+}

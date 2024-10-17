@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home Page -->
+  <url>
+    <loc>https://indo-teknik.com/</loc>
+  </url>
+
+  <!-- Static Pages -->
+  <url>
+    <loc>https://indo-teknik.com/about</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/contact</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/test-bench-and-fabrication-machines</loc>
+  </url>
+
+  <!-- Product Pages -->
+  <url>
+    <loc>https://indo-teknik.com/products/fuel-injection-systems/vp44/distributor-pump/distributor-pump-vp44</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/products/fuel-injection-systems/electric/eui/eui</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/products/fuel-injection-systems/electric/unit-pump/unit-pump</loc>
+  </url>
+
+  <!-- Dynamic Service Routes -->
+  <!-- These are examples. You would add each service route dynamically here -->
+  <url>
+    <loc>https://indo-teknik.com/services/conventional/nozzle</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/services/conventional/fuel-injection-pump</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/services/common-rail/supply-pump</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/services/common-rail/injector</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/services/electric/eui</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/services/electric/tics</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/services/electric/unit-pump</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/services/fabrication/welding</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/services/fabrication/lathe</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/services/fabrication/press'</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/services/fabrication/fabrication'</loc>
+  </url>
+
+  <!-- Dynamic Product Category Routes -->
+  <!-- Add all product categories dynamically here -->
+  <url>
+    <loc>https://indo-teknik.com/products/fuel-injection-systems/vp44/distributor-pump/distributor-pump-vp44</loc>
+  </url>
+
+  <!-- Dynamic Conventional, Common Rail, Automotive Aftermarket, and Other Products Details -->
+  <!-- For each dynamic route group, add the respective URLs here -->
+  <url>
+    <loc>https://indo-teknik.com/products/fuel-injection-systems/conventional/fuel-injection-pump</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/products/fuel-injection-systems/conventional/nozzle</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/products/fuel-injection-systems/common-rail/supply-pump</loc>
+  </url>
+  <url>
+    <loc>https://indo-teknik.com/products/fuel-injection-systems/common-rail/injector</loc>
+  </url>
+
+  <!-- 404 Fallback -->
+  <url>
+    <loc>https://indo-teknik.com/404</loc>
+  </url>
+</urlset>
